@@ -1,4 +1,4 @@
-package test_future2;
+package FutureDemo;
 
 
 import java.util.concurrent.Callable;
